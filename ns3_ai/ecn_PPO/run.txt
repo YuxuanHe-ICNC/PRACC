@@ -1,0 +1,10 @@
+
+Rl
+./waf --run 'test_ecn ecnmix/configfile/config.txt'
+
+
+python3 PPOECN.py  --use_rl --rl_action --save --load
+
+python3 PPOECN.py  --use_rl --rl_action --save --load
+
+
